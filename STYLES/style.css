@@ -122,6 +122,9 @@ ul li a:hover{
   border-radius: 15px;
   
 }
+.menu-bar{
+  display: none;
+}
 
 input{
   border-radius: 15px;
